@@ -1,0 +1,9 @@
+body{
+    margin: 0;
+    padding: 0;
+    background: url(imagenes/2e1c4067-90f3-4780-8a95-cbfdb6f84f43_1410460280059523.jpg);   
+    background-size: cover;
+    background-position: center;
+    font-family: sans-serif;
+}
+h1 { color: #f3efef; }
